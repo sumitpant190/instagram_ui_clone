@@ -38,7 +38,7 @@ class UserHome extends StatelessWidget {
         children: [
           //STORIES
           Container(
-              height: 130,
+              height: 100,
               child: ListView.builder(
                   scrollDirection: Axis.horizontal,
                   itemCount: people.length,
