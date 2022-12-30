@@ -1,5 +1,5 @@
 # instagram_ui_clone
-![image](https://user-images.githubusercontent.com/114337820/210040098-be48d614-c81c-430c-a0e4-235874358fd8.png)
+<img width="194" alt="image" src="https://user-images.githubusercontent.com/114337820/210040760-87776135-6159-41f6-b4a8-298326fe860f.png">
 
 ![image](https://user-images.githubusercontent.com/114337820/210040171-00183ee8-322e-480e-858f-4b2e1ac01eb7.png)
 
