@@ -1,2 +1,3 @@
 # instagram_ui_clone
-![322606388_666019521981053_1111173112099116685_n](https://user-images.githubusercontent.com/114337820/210039906-52cb96f7-b3ac-468a-8863-276f07f0ded4.jpg)
+![image](https://user-images.githubusercontent.com/114337820/210040047-63637612-449d-46cf-9da5-4c623a3ef16b.png)
+
